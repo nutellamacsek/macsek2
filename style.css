@@ -1,0 +1,29 @@
+.otthon{
+    font-size: 29px;
+    text-align: center;
+}
+.hatter{
+    background-image: url(fokep.png);
+    background-size: cover;
+    background-repeat: no-repeat;
+    height: 100vh;
+}
+div{
+    background-color: blueviolet;
+}
+.rolam{
+    font-size: 29px;
+    text-align: center;
+}
+.rolam_hatter{
+    background-image: url(infohatter.png);
+    background-size: cover;
+    background-repeat: no-repeat;
+    height: 100vh;
+}
+.sponzorhatter{
+    background-image: url(tankju2.jpg);
+    background-size: cover;
+    background-repeat: no-repeat;
+    height: 100vh;
+}
